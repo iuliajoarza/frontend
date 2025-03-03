@@ -1,0 +1,188 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Background and Layout */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-image: url('/assets/backround.jpg');
+  background-size: cover; /* Ensures the image covers the entire viewport */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents tiling */
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333; /* General text color */
+  overflow-y: auto;
+}
+
+/* Style the form container to stand out */
+.form-container {
+  background: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 500px; /* Adjust the width for form responsiveness */
+  width: 100%;
+  margin:100px auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  transform: none;
+}
+
+  .form-container:hover {
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15); /* Slightly bigger shadow on hover */
+  }
+
+/* Form Title */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: 500;
+  color: #333;
+  text-align: center; /* Center the title */
+}
+
+/* Input Fields */
+input[type="text"],
+input[type="password"],
+input[type="radio"],
+select {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="radio"] {
+  width: auto;
+  margin-right: 10px;
+}
+
+/* Focus on Input Fields */
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus {
+  border-color: #5c9ded;
+  outline: none;
+  box-shadow: 0 0 5px rgba(92, 157, 237, 0.5);
+}
+
+/* Submit Button */
+button {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(145deg, #4CAF50, #45a049);
+  color: white;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+  button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+  }
+
+  button:active {
+    transform: translateY(1px);
+  }
+
+/* Response Message */
+#responseMessage {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+/* Error and Success messages */
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}
+
+/* Categories Dropdown (if you are using categories) */
+select {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 1rem;
+}
+
+/* Form Group - Aligning the labels and inputs in a row */
+.form-group {
+  display: flex;
+  justify-content: space-between; /* Space out label and input */
+  align-items: center; /* Vertically align items */
+  margin-bottom: 15px; /* Space between rows */
+}
+
+  .form-group label {
+    font-size: 1.2rem; /* Increase font size for labels */
+    font-weight: bold; /* Make labels bold */
+    color: #333; /* Darker color for better visibility */
+    width: 30%; /* Adjust the width of the label */
+    margin-right: 10px; /* Space between label and input */
+    text-align: left; /* Align label to the left */
+  }
+
+  .form-group input,
+  .form-group select {
+    width: 65%; /* Set the width of the input to take the remaining space */
+    padding: 10px; /* Adjust padding for better alignment */
+    font-size: 1rem; /* Keep input font size consistent */
+  }
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .form-group {
+    flex-direction: column; /* Stack labels and inputs vertically on small screens */
+    align-items: flex-start; /* Align items to the left on smaller screens */
+  }
+
+    .form-group label {
+      width: 100%; /* Make the label take the full width on small screens */
+      margin-bottom: 5px; /* Space between label and input */
+      font-size: 1.1rem; /* Slightly smaller labels for smaller screens */
+    }
+
+    .form-group input,
+    .form-group select {
+      width: 100%; /* Make inputs take full width */
+    }
+}
+
+/* Background Image Wrapper */
+.background-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* Place the image behind other content */
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Scale the image */
+}
