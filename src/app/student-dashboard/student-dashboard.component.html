@@ -1,0 +1,64 @@
+<div class="background-wrapper">
+  <img src="/assets/backround.jpg" alt="Background" class="background-image">
+</div>
+
+<!-- Category Selection Section -->
+<div *ngIf="!quizStarted" class="form-container">
+  <h2>Select Category</h2>
+  <label for="category">Choose a category:</label>
+  <select id="category" [(ngModel)]="selectedCategory" (change)="onCategorySelect()">
+    <option value="" disabled>Select Category</option>
+    <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+  </select>
+  <button (click)="startQuiz()" [disabled]="!selectedCategory">Start Quiz</button>
+</div>
+
+<!-- Quiz Section: Questions and Answer Options -->
+<div *ngIf="quizStarted" class="form-container">
+  <h2>Quiz: {{ selectedCategory }}</h2>
+  <form (ngSubmit)="submitQuiz()">
+    <div class="question-container" *ngIf="questions.length > 0">
+      <div class="question">
+        <h3>{{ questions[currentQuestionIndex]?.question }}</h3> <!-- Display the current question text -->
+
+        <div *ngFor="let option of [questions[currentQuestionIndex]?.answer1, questions[currentQuestionIndex]?.answer2, questions[currentQuestionIndex]?.answer3, questions[currentQuestionIndex]?.answer4]; let j = index">
+          <label>
+            <input type="radio"
+                   name="question{{currentQuestionIndex}}"
+                   [(ngModel)]="answers[currentQuestionIndex]"
+                   [value]="j"
+                   required />
+            {{ option }} <!-- Display the answer option -->
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation buttons -->
+    <div class="navigation-buttons">
+      <button type="button" (click)="prevQuestion()" [disabled]="currentQuestionIndex === 0">Previous</button>
+      <button type="button" (click)="nextQuestion()" [disabled]="isLastQuestion()">Next</button>
+    </div>
+
+    <!-- Submit Button -->
+    <button type="submit" [disabled]="!isFormValid()">Submit Quiz</button>
+  </form>
+</div>
+
+<!-- Final Score and Feedback Section -->
+<div *ngIf="finalScore !== null && quizStarted" class="form-container">
+  <h3>Your Final Score: {{ finalScore }}%</h3>
+  <ul>
+    <li *ngFor="let feedbackItem of feedback">{{ feedbackItem }}</li>
+  </ul>
+</div>
+
+<!-- Average List Container Section -->
+<div class="average-list-container">
+  <h3>Students and Their Averages</h3>
+  <ul>
+    <li *ngFor="let student of students" [ngClass]="{ 'highlight': student.id === currentStudent }">
+      {{ student.name }} - {{ student.average }}%
+    </li>
+  </ul>
+</div>

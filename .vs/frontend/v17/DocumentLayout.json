@@ -1,0 +1,678 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\proiect IS\\QAPP\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\student-dashboard\\student-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\student-dashboard\\student-dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\student.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\student.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\student-dashboard\\student-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\quizzes.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\quizzes.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\teacher-dashboard\\teacher-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\teacher-dashboard\\teacher-dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\create-account\\create-account.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\54e039bf-116c-48ab-844d-76a70a6d8553_proiect IS.zip.553\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\teacher-dashboard\\teacher-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\student-dashboard\\student-dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\questions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\questions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\teacher.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\teacher.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\questions.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\main.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\create-account\\create-account.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\create-account\\create-account.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\teacher.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\questions.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\54e039bf-116c-48ab-844d-76a70a6d8553_proiect IS.zip.553\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\54e039bf-116c-48ab-844d-76a70a6d8553_proiect IS.zip.553\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html [Read Only]",
+              "ViewState": "AgIAADgBAAAAAAAAAAAcwFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-04T15:37:01.633Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "teacher-dashboard.component.spec.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts",
+              "RelativeToolTip": "src\\app\\teacher-dashboard\\teacher-dashboard.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:26:49.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "student-dashboard.component.spec.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\student-dashboard\\student-dashboard.component.spec.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.spec.ts",
+              "RelativeToolTip": "src\\app\\student-dashboard\\student-dashboard.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:26:29.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-03T11:25:01.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student-dashboard.component.css",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.css",
+              "RelativeDocumentMoniker": "src\\app\\student-dashboard\\student-dashboard.component.css",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.css",
+              "RelativeToolTip": "src\\app\\student-dashboard\\student-dashboard.component.css",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-03T10:45:01.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student-dashboard.component.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.html",
+              "RelativeDocumentMoniker": "src\\app\\student-dashboard\\student-dashboard.component.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.html",
+              "RelativeToolTip": "src\\app\\student-dashboard\\student-dashboard.component.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-03T10:44:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student-dashboard.component.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\student-dashboard\\student-dashboard.component.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\student-dashboard\\student-dashboard.component.ts",
+              "RelativeToolTip": "src\\app\\student-dashboard\\student-dashboard.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T10:35:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "quizzes.service.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\quizzes.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\quizzes.service.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\quizzes.service.ts",
+              "RelativeToolTip": "src\\app\\services\\quizzes.service.ts",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T10:18:09.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "create-account.component.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.html",
+              "RelativeDocumentMoniker": "src\\app\\create-account\\create-account.component.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.html",
+              "RelativeToolTip": "src\\app\\create-account\\create-account.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T13:44:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.component.css",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.component.css",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "src\\app\\login\\login.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T13:33:18.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.component.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.component.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T13:21:11.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "create-account.component.css",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.css",
+              "RelativeDocumentMoniker": "src\\app\\create-account\\create-account.component.css",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.css",
+              "RelativeToolTip": "src\\app\\create-account\\create-account.component.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T12:58:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.component.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T12:56:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "teacher-dashboard.component.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.html",
+              "RelativeDocumentMoniker": "src\\app\\teacher-dashboard\\teacher-dashboard.component.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.html",
+              "RelativeToolTip": "src\\app\\teacher-dashboard\\teacher-dashboard.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T12:43:39.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "teacher-dashboard.component.css",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.css",
+              "RelativeDocumentMoniker": "src\\app\\teacher-dashboard\\teacher-dashboard.component.css",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.css",
+              "RelativeToolTip": "src\\app\\teacher-dashboard\\teacher-dashboard.component.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T12:42:57.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "teacher-dashboard.component.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\teacher-dashboard\\teacher-dashboard.component.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher-dashboard\\teacher-dashboard.component.ts",
+              "RelativeToolTip": "src\\app\\teacher-dashboard\\teacher-dashboard.component.ts",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T12:37:15.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "create-account.component.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\create-account\\create-account.component.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\create-account\\create-account.component.ts",
+              "RelativeToolTip": "src\\app\\create-account\\create-account.component.ts",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T12:37:03.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.spec.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T12:36:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": ".gitignore",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T12:28:44.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:28:33.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:28:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:28:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "tsconfig.spec.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\tsconfig.spec.json",
+              "RelativeToolTip": "tsconfig.spec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:28:15.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "angular.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:27:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "package.json",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T12:27:04.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.html",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T12:08:06.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app.config.server.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.server.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.server.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.server.ts",
+              "RelativeToolTip": "src\\app\\app.config.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:57:00.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.server.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\main.server.ts",
+              "RelativeDocumentMoniker": "src\\main.server.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\main.server.ts",
+              "RelativeToolTip": "src\\main.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:55:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "server.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\server.ts",
+              "RelativeDocumentMoniker": "src\\server.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\server.ts",
+              "RelativeToolTip": "src\\server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:55:23.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "teacher.service.spec.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\teacher.service.spec.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\teacher.service.spec.ts",
+              "RelativeToolTip": "src\\app\\teacher.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:47:15.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "questions.service.spec.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\questions.service.spec.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.spec.ts",
+              "RelativeToolTip": "src\\app\\questions.service.spec.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:47:07.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.routes.server.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.server.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.server.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.server.ts",
+              "RelativeToolTip": "src\\app\\app.routes.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:46:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:46:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:46:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.css",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "src\\app\\app.component.css",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.component.css",
+              "RelativeToolTip": "src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T11:46:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:44:07.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:43:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "teacher.service.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\teacher.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\teacher.service.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\teacher.service.ts",
+              "RelativeToolTip": "src\\app\\services\\teacher.service.ts",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:41:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "questions.service.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\questions.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\questions.service.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\questions.service.ts",
+              "RelativeToolTip": "src\\app\\services\\questions.service.ts",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:40:18.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "questions.service.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\questions.service.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\questions.service.ts",
+              "RelativeToolTip": "src\\app\\questions.service.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:38:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.service.ts",
+              "DocumentMoniker": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\student.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\student.service.ts",
+              "ToolTip": "F:\\proiect IS\\QAPP\\frontend\\src\\app\\services\\student.service.ts",
+              "RelativeToolTip": "src\\app\\services\\student.service.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-27T11:34:04.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

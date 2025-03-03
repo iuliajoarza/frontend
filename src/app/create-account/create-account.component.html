@@ -1,0 +1,40 @@
+
+<div class="background-wrapper">
+  <img src="/assets/backround.jpg" alt="Background" class="background-image">
+</div>
+<div class="form-container">
+  <h1>Create Account</h1>
+  <form (ngSubmit)="onSubmit()" #createAccountForm="ngForm">
+    <!-- Account Type Selection -->
+    <label for="accountType">Select Account Type:</label>
+    <div>
+      <input type="radio" id="student" name="accountType" value="student" [(ngModel)]="accountType" required />
+      <label for="student">Student</label>
+
+      <input type="radio" id="teacher" name="accountType" value="teacher" [(ngModel)]="accountType" />
+      <label for="teacher">Teacher</label>
+    </div>
+
+    <!-- Username Field -->
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" [(ngModel)]="username" required />
+
+    <!-- Password Field -->
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" [(ngModel)]="password" required />
+
+    <!-- Submit Button -->
+    <button type="submit" [disabled]="!createAccountForm.form.valid">Create Account</button>
+  </form>
+
+  <!-- Response Message -->
+  <div id="responseMessage" *ngIf="responseMessage" [ngClass]="responseClass">
+    {{ responseMessage }}
+  </div>
+
+  <!-- Link to Login -->
+  <div class="link">
+    <p>Already have an account?</p>
+    <a [routerLink]="'/login'">Login</a>
+  </div>
+</div>
